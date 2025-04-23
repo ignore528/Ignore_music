@@ -138,7 +138,7 @@ async def start_pm(client, message: Message, _):
             caption=_["start_2"].format(message.from_user.mention, app.mention),
             reply_markup=InlineKeyboardMarkup(out),
         )
-        if await is_on_off(config.LOG):
+        if await is_on_off(config.LOGGER_ID):
             sender_id = message.from_user.id
             sender_name = message.from_user.first_name
             return await app.send_message(
