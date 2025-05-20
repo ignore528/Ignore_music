@@ -35,15 +35,15 @@
 </h3>
 
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/istkharalam62/Avengers_music"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ANURAGSONG/ANURAG_music"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
 
 
 
 <p align="center">
-<a href="https://telegram.me/THUNDERDEVS"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐈𝐒𝐓𝐊𝐇𝐀𝐑%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ANURAG_ABOUT"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 ANURAG%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/ll_ISTKHAR_BABY_lll"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐓𝐇𝐔𝐍𝐃𝐄𝐑%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ANURAGMOD"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 ANURAG%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
