@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/1ja81y.jpg">
+  <img src="https://files.catbox.moe/q7h4nt.jpg">
 </p>
 
 
@@ -24,8 +24,8 @@
 ## 🖇 Generating Pyrogram String Session
 
 <p>
-<a href="https://t.me/istkhar_string_sesion_bot-Gen"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
-<a href="https://t.me/purvi_music_bot -Gen"><img src="https://img.shields.io/badge/PURVI%20MUSIC%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
+<a href="https://t.me/MAHI_X_MUSIC_BOT"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
+<a href="https://t.me/All_super_music -Gen"><img src="https://img.shields.io/badge/PURVI%20MUSIC%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 
 
 <h3 align="center">
@@ -49,7 +49,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/TEAM-ISTKHAR/MUSARRAT/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/ANURAGSONG/ANURAG_music/tree/master)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
