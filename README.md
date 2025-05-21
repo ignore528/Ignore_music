@@ -43,7 +43,7 @@
 <a href="https://t.me/Ignore_125"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐈𝐆𝐍𝐎𝐑𝐄%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://t.me/Ignore_sheikh"><img src="https://img.shields.io/badge/-☆𝐓𝐇𝐄+𝐓𝐄𝐀𝐌+𝐈𝐆𝐍𝐎𝐑𝐄%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Ignore_sheikh"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐈𝐆𝐍𝐎𝐑𝐄%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
