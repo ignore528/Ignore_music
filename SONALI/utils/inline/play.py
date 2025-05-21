@@ -54,9 +54,9 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
     elif 60 <= umm < 70:
         bar = "—————————❤️‍🔥"
     elif 70 <= umm < 80:
-        bar = "—Jani—Pawar—"
+        bar = "—Ignore—Pawar—"
     elif 80 <= umm < 95:
-        bar = "——ANURAG——"
+        bar = "——IGNORE——"
     else:
         bar = "╌╌╌╌╌╌╌╌╌♡"
 
