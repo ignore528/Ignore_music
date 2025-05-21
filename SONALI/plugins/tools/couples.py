@@ -15,7 +15,7 @@ POLICE = [
     [
         InlineKeyboardButton(
             text="|| ˹𖤍 𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗚𝗥𝗢𝗨𝗣𖤍˼ ||",
-            url=f"https://t.me/ClassyMusicRobot?startgroup=true",
+            url=f"https://t.me/MAHI_X_MUSIC_BOT?startgroup=true",
         ),
     ],
 ]
