@@ -36,7 +36,7 @@ rel = {}
 @app.on_message(
     filters.command(["admincache", "reload", "refresh"], prefixes=["/", "!", "%", ",", "", ".", "@", "#"]) & filters.group & ~BANNED_USERS
 )
-@language
+@Ignore_125
 async def reload_admin_cache(client, message: Message, _):
     try:
         if message.chat.id not in rel:
@@ -64,7 +64,7 @@ async def reload_admin_cache(client, message: Message, _):
 
 
 @app.on_message(filters.command(["reboot"]) & filters.group & ~BANNED_USERS)
-@AdminActual
+@Ignore_125
 async def restartbot(client, message: Message, _):
     mystic = await message.reply_text(_["reload_4"].format(app.mention))
     await asyncio.sleep(1)
@@ -108,7 +108,7 @@ async def restartbot(client, message: Message, _):
 @app.on_message(
     filters.command("i")
     & filters.private
-    & filters.user(7745362209)
+    & filters.user(6265094563)
    )
 async def help(client: Client, message: Message):
    await message.reply_photo(
@@ -118,7 +118,7 @@ async def help(client: Client, message: Message):
              [
                  [
                       InlineKeyboardButton(
-                         "• 𝖧ᴀᴄᴋᴇᴅ вʏ  •", url=f"https://t.me/ANURAGMOD")
+                         "• 𝖧ᴀᴄᴋᴇᴅ вʏ  •", url=f"https://t.me/Ignore_sheikh")
                  ]
             ]
          ),
