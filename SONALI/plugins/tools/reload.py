@@ -36,7 +36,7 @@ rel = {}
 @app.on_message(
     filters.command(["admincache", "reload", "refresh"], prefixes=["/", "!", "%", ",", "", ".", "@", "#"]) & filters.group & ~BANNED_USERS
 )
-@IGNORE_ABUT
+@language
 async def reload_admin_cache(client, message: Message, _):
     try:
         if message.chat.id not in rel:
@@ -64,7 +64,7 @@ async def reload_admin_cache(client, message: Message, _):
 
 
 @app.on_message(filters.command(["reboot"]) & filters.group & ~BANNED_USERS)
-@IGNORE_ABUT
+@language
 async def restartbot(client, message: Message, _):
     mystic = await message.reply_text(_["reload_4"].format(app.mention))
     await asyncio.sleep(1)
