@@ -14,7 +14,7 @@ from config import BANNED_USERS, OWNER_ID
 
 
 @app.on_message(filters.command(["addsudo"], prefixes=["/", "!", "%", ",", "", ".", "@", "#"]) & filters.user(OWNER_ID))
-@IGNORE_ABUT
+@language
 async def useradd(client, message: Message, _):
     if not message.reply_to_message:
         if len(message.command) != 2:
@@ -31,7 +31,7 @@ async def useradd(client, message: Message, _):
 
 
 @app.on_message(filters.command(["delsudo", "rmsudo"], prefixes=["/", "!", "%", ",", "", ".", "@", "#"]) & filters.user(OWNER_ID))
-@IGNORE_ABUT
+@language
 async def userdel(client, message: Message, _):
     if not message.reply_to_message:
         if len(message.command) != 2:
